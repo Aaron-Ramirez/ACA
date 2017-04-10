@@ -135,6 +135,39 @@ body {
   margin: auto;
 }
 
+@media only screen and (min-width : 1280px) {
+
+  .parallax-window {
+    min-height: 1040px;
+    min-width: 300px;
+    text-align: center;
+    padding-top: 350px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+  }
+
+  .parallax-window2 {
+    min-height: 1040px;
+    min-width: 300px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+  }
+
+  .work-hero {
+    height: 900px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  #logoHome {
+    width: 100px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+  }
+
+}
 
 @media only screen and (max-width : 992px) {
 
@@ -241,7 +274,7 @@ body {
 @media only screen and (max-width : 480px) {
 
   .parallax-window {
-    min-height: 550px;
+    min-height: 600px;
     min-width: 300px;
     text-align: center;
     padding-top: 250px;
