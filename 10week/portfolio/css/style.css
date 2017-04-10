@@ -63,7 +63,7 @@ body {
 }
 
 .work-hero {
-  height: 650px;
+  height: 600px;
   padding-left: 0px;
   padding-right: 0px;
 }
@@ -264,6 +264,18 @@ body {
     font-size: 1.5em;
   }
 
+  #mystory {
+    min-height: 550px
+  }
+
+ #mystory br {
+   display: none;
+ }
+
+  #mystory p {
+    font-size: .6em;
+  }
+
   #toeframe {
     width: 100%;
     background-color: #4D0000;
@@ -299,11 +311,11 @@ body {
   }
 
   #myCarousel {
-    height: 450px;
+    height: 550px;
   }
 
   #myCarousel img {
-    max-height: 400px;
+    max-height: 450px;
   }
 
   #toeframe {
