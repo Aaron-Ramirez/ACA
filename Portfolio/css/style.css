@@ -4,7 +4,7 @@ body {
 }
 
 .parallax-window {
-  min-height: 800px;
+  min-height: 1000px;
   min-width: 300px;
   /*background-color: rgba(73, 54, 78, 0.1);*/
   text-align: center;
@@ -14,7 +14,7 @@ body {
 }
 
 .parallax-window2 {
-  min-height: 800px;
+  min-height: 1000px;
   min-width: 300px;
   /*background-color: rgba(73, 54, 78, 0.4);*/
   text-align: center;
@@ -262,6 +262,7 @@ body {
 .carousel-inner img {
   margin: auto;
 }
+
 
 
 @media only screen and (max-width : 992px) {
