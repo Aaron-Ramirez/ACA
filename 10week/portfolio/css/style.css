@@ -272,10 +272,6 @@ body {
    display: none;
  }
 
-  #mystory p {
-    font-size: .6em;
-  }
-
   #toeframe {
     width: 100%;
     background-color: #4D0000;
@@ -308,6 +304,10 @@ body {
     font-family: monospace;
     color: white;
     padding-top: 30px;
+  }
+
+  #mystory p {
+    font-size: .6em;
   }
 
   #myCarousel {
