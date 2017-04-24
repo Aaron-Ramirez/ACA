@@ -42,6 +42,14 @@ $(document).ready(function(){
         $("#toeframe").attr("src", "https://aaron-ramirez.github.io/ACA/09week/tictactoe/index.html");
     }, 1000);
   });
+    // me and carousel delay
+    $("#mebtn").click(function () {
+      $('.work-hero').hide();
+      setTimeout(function(){
+        $('.merow').fadeIn(1000);
+        //$("#toeframe").attr("src", "https://aaron-ramirez.github.io/ACA/09week/tictactoe/index.html");
+    }, 1000);
+  });
 
   $(".carousel-indicators").click(function(){
            $(".carousel").carousel('prev');
