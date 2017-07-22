@@ -267,10 +267,10 @@ body {
 
 @media only screen and (max-width : 992px) {
 
-  body {
+  /*body {
     overflow: auto;
     overflow-x: hidden;
-  }
+  }*/
 
   .parallax-window3 {
     min-height: 300px;

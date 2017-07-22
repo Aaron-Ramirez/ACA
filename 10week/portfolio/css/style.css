@@ -239,19 +239,22 @@ body {
   }
 
   .parallax-window3 {
-    min-height: 200px;
+    display: none;
+    /*min-height: 200px;
     min-width: 300px;
     background-color: black;
     text-align: center;
-    margin: 0 auto;
+    margin: 0 auto;*/
   }
 
+  
   .skills h1 {
-    font-size: 6em;
+    display: none;
+    /*font-size: 6em;
     font-weight: 900;
     font-family: monospace;
     color: white;
-    padding-top: 40px;
+    padding-top: 40px;*/
   }
 
   .work-hero iframe {
@@ -290,21 +293,21 @@ body {
     margin: 0 auto;
   }
 
-  .parallax-window3 {
+  /*.parallax-window3 {
     min-height: 140px;
     min-width: 300px;
     background-color: black;
     text-align: center;
     margin: 0 auto;
-  }
+  }*/
 
-  .skills h1 {
+  /*.skills h1 {
     font-size: 4em;
     font-weight: 900;
     font-family: monospace;
     color: white;
     padding-top: 30px;
-  }
+  }*/
 
   #mystory p {
     font-size: .6em;
